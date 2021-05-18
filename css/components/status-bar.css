@@ -4,9 +4,10 @@
   width: 100%;
   display: flex;
   justify-content: center;
-  margin: 5px 3px;
+  /* margin: 5px 3px; */
   padding: 5px 3px;
   box-sizing: border-box;
+  background-color: white;
 }
 .status-bar__column {
   width: 33%;
